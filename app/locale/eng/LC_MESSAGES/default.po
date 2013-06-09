@@ -1,0 +1,594 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-04-12 20:36+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \controllers\fotos_controller.php:14
+msgid "Invalid foto"
+msgstr ""
+
+#: \controllers\fotos_controller.php:27
+msgid "The foto has been saved"
+msgstr ""
+
+#: \controllers\fotos_controller.php:30
+msgid "The foto could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\fotos_controller.php:39
+msgid "Invalid id for foto"
+msgstr ""
+
+#: \controllers\fotos_controller.php:46
+msgid "Foto deleted"
+msgstr ""
+
+#: \controllers\fotos_controller.php:49
+msgid "Foto was not deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:14;34
+msgid "Invalid group"
+msgstr ""
+
+#: \controllers\groups_controller.php:24;39
+msgid "The group has been saved"
+msgstr ""
+
+#: \controllers\groups_controller.php:27;42
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\groups_controller.php:52
+msgid "Invalid id for group"
+msgstr ""
+
+#: \controllers\groups_controller.php:56
+msgid "Group deleted"
+msgstr ""
+
+#: \controllers\groups_controller.php:59
+msgid "Group was not deleted"
+msgstr ""
+
+#: \controllers\links_controller.php:13;33
+msgid "Invalid link"
+msgstr ""
+
+#: \controllers\links_controller.php:23;38
+msgid "The link has been saved"
+msgstr ""
+
+#: \controllers\links_controller.php:26;41
+msgid "The link could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\links_controller.php:51
+msgid "Invalid id for link"
+msgstr ""
+
+#: \controllers\links_controller.php:55
+msgid "Link deleted"
+msgstr ""
+
+#: \controllers\links_controller.php:58
+msgid "Link was not deleted"
+msgstr ""
+
+#: \controllers\precios_controller.php:13;35
+msgid "Invalid precio"
+msgstr ""
+
+#: \controllers\precios_controller.php:23;40
+msgid "The precio has been saved"
+msgstr ""
+
+#: \controllers\precios_controller.php:26;43
+msgid "The precio could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\precios_controller.php:55
+msgid "Invalid id for precio"
+msgstr ""
+
+#: \controllers\precios_controller.php:59
+msgid "Precio deleted"
+msgstr ""
+
+#: \controllers\precios_controller.php:62
+msgid "Precio was not deleted"
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:13;33
+msgid "Invalid tipoprecio"
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:23;38
+msgid "The tipoprecio has been saved"
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:26;41
+msgid "The tipoprecio could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:51
+msgid "Invalid id for tipoprecio"
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:55
+msgid "Tipoprecio deleted"
+msgstr ""
+
+#: \controllers\tipoprecios_controller.php:58
+msgid "Tipoprecio was not deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:33;55
+msgid "Invalid user"
+msgstr ""
+
+#: \controllers\users_controller.php:43;60
+msgid "The user has been saved"
+msgstr ""
+
+#: \controllers\users_controller.php:46;63
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: \controllers\users_controller.php:75
+msgid "Invalid id for user"
+msgstr ""
+
+#: \controllers\users_controller.php:79
+msgid "User deleted"
+msgstr ""
+
+#: \controllers\users_controller.php:82
+msgid "User was not deleted"
+msgstr ""
+
+#: \views\fotos\add.ctp:4
+msgid "Add Foto"
+msgstr ""
+
+#: \views\fotos\add.ctp:16
+#: \views\groups\add.ctp:9
+#: \views\groups\edit.ctp:10
+#: \views\links\add.ctp:10
+#: \views\links\edit.ctp:11
+#: \views\precios\add.ctp:13
+#: \views\precios\edit.ctp:14
+#: \views\tipoprecios\add.ctp:10
+#: \views\tipoprecios\edit.ctp:11
+#: \views\users\add.ctp:11
+#: \views\users\edit.ctp:12
+msgid "Submit"
+msgstr ""
+
+#: \views\fotos\add.ctp:19
+#: \views\fotos\index.ctp:11;51
+#: \views\fotos\view.ctp:20
+#: \views\groups\add.ctp:12
+#: \views\groups\edit.ctp:13
+#: \views\groups\index.ctp:9;47
+#: \views\groups\view.ctp:27;48
+#: \views\links\add.ctp:13
+#: \views\links\edit.ctp:14
+#: \views\links\index.ctp:22
+#: \views\links\view.ctp:22
+#: \views\precios\add.ctp:16
+#: \views\precios\edit.ctp:17
+#: \views\precios\index.ctp:11;53
+#: \views\precios\view.ctp:37
+#: \views\tipoprecios\add.ctp:13
+#: \views\tipoprecios\edit.ctp:14
+#: \views\tipoprecios\index.ctp:8;45
+#: \views\tipoprecios\view.ctp:22;43
+#: \views\users\add.ctp:14
+#: \views\users\edit.ctp:15
+#: \views\users\index.ctp:11;53
+#: \views\users\view.ctp:37
+msgid "Actions"
+msgstr ""
+
+#: \views\fotos\add.ctp:22
+#: \views\fotos\view.ctp:24
+msgid "List Fotos"
+msgstr ""
+
+#: \views\fotos\index.ctp:2
+msgid "Fotos"
+msgstr ""
+
+#: \views\fotos\index.ctp:29
+#: \views\groups\index.ctp:25
+#: \views\groups\view.ctp:66
+#: \views\precios\index.ctp:31
+#: \views\tipoprecios\index.ctp:23
+#: \views\tipoprecios\view.ctp:61
+#: \views\users\index.ctp:31
+msgid "View"
+msgstr ""
+
+#: \views\fotos\index.ctp:31
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:27
+#: \views\groups\view.ctp:68
+#: \views\links\edit.ctp:17
+#: \views\precios\edit.ctp:20
+#: \views\precios\index.ctp:33
+#: \views\tipoprecios\edit.ctp:17
+#: \views\tipoprecios\index.ctp:25
+#: \views\tipoprecios\view.ctp:63
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:33
+msgid "Delete"
+msgstr ""
+
+#: \views\fotos\index.ctp:31
+#: \views\fotos\view.ctp:23
+#: \views\groups\edit.ctp:16
+#: \views\groups\index.ctp:27
+#: \views\groups\view.ctp:30;68
+#: \views\links\edit.ctp:17
+#: \views\links\view.ctp:25
+#: \views\precios\edit.ctp:20
+#: \views\precios\index.ctp:33
+#: \views\precios\view.ctp:40
+#: \views\tipoprecios\edit.ctp:17
+#: \views\tipoprecios\index.ctp:25
+#: \views\tipoprecios\view.ctp:25;63
+#: \views\users\edit.ctp:18
+#: \views\users\index.ctp:33
+#: \views\users\view.ctp:40
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \views\fotos\index.ctp:39
+#: \views\groups\index.ctp:35
+#: \views\precios\index.ctp:41
+#: \views\tipoprecios\index.ctp:33
+#: \views\users\index.ctp:41
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: \views\fotos\index.ctp:44
+#: \views\groups\index.ctp:40
+#: \views\precios\index.ctp:46
+#: \views\tipoprecios\index.ctp:38
+#: \views\users\index.ctp:46
+msgid "previous"
+msgstr ""
+
+#: \views\fotos\index.ctp:47
+#: \views\groups\index.ctp:43
+#: \views\precios\index.ctp:49
+#: \views\tipoprecios\index.ctp:41
+#: \views\users\index.ctp:49
+msgid "next"
+msgstr ""
+
+#: \views\fotos\index.ctp:53
+#: \views\fotos\view.ctp:25
+msgid "New Foto"
+msgstr ""
+
+#: \views\fotos\view.ctp:2
+msgid "Foto"
+msgstr ""
+
+#: \views\fotos\view.ctp:4
+msgid "Foto File Name"
+msgstr ""
+
+#: \views\fotos\view.ctp:23
+msgid "Delete Foto"
+msgstr ""
+
+#: \views\groups\add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: \views\groups\add.ctp:15
+#: \views\groups\edit.ctp:17
+#: \views\groups\view.ctp:31
+#: \views\users\add.ctp:18
+#: \views\users\edit.ctp:20
+#: \views\users\index.ctp:56
+#: \views\users\view.ctp:43
+msgid "List Groups"
+msgstr ""
+
+#: \views\groups\add.ctp:16
+#: \views\groups\edit.ctp:18
+#: \views\groups\index.ctp:50
+#: \views\groups\view.ctp:33
+#: \views\users\add.ctp:17
+#: \views\users\edit.ctp:19
+#: \views\users\view.ctp:41
+msgid "List Users"
+msgstr ""
+
+#: \views\groups\add.ctp:17
+#: \views\groups\edit.ctp:19
+#: \views\groups\index.ctp:51
+#: \views\groups\view.ctp:34;77
+#: \views\users\index.ctp:55
+#: \views\users\view.ctp:42
+msgid "New User"
+msgstr ""
+
+#: \views\groups\edit.ctp:4
+#: \views\groups\view.ctp:29
+msgid "Edit Group"
+msgstr ""
+
+#: \views\groups\index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: \views\groups\index.ctp:26
+#: \views\groups\view.ctp:67
+#: \views\precios\index.ctp:32
+#: \views\tipoprecios\index.ctp:24
+#: \views\tipoprecios\view.ctp:62
+#: \views\users\index.ctp:32
+msgid "Edit"
+msgstr ""
+
+#: \views\groups\index.ctp:49
+#: \views\groups\view.ctp:32
+#: \views\users\add.ctp:19
+#: \views\users\edit.ctp:21
+#: \views\users\index.ctp:57
+#: \views\users\view.ctp:44
+msgid "New Group"
+msgstr ""
+
+#: \views\groups\view.ctp:2
+#: \views\users\view.ctp:19
+msgid "Group"
+msgstr ""
+
+#: \views\groups\view.ctp:4;42
+#: \views\links\view.ctp:4
+#: \views\precios\view.ctp:4
+#: \views\tipoprecios\view.ctp:4;37
+#: \views\users\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: \views\groups\view.ctp:9
+#: \views\links\view.ctp:9
+#: \views\precios\view.ctp:9
+#: \views\tipoprecios\view.ctp:9;38
+msgid "Name"
+msgstr ""
+
+#: \views\groups\view.ctp:14;46
+#: \views\users\view.ctp:24
+msgid "Created"
+msgstr ""
+
+#: \views\groups\view.ctp:19;47
+#: \views\users\view.ctp:29
+msgid "Modified"
+msgstr ""
+
+#: \views\groups\view.ctp:30
+msgid "Delete Group"
+msgstr ""
+
+#: \views\groups\view.ctp:38
+msgid "Related Users"
+msgstr ""
+
+#: \views\groups\view.ctp:43
+#: \views\users\view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: \views\groups\view.ctp:44
+#: \views\users\view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: \views\groups\view.ctp:45
+msgid "Group Id"
+msgstr ""
+
+#: \views\layouts\default.ctp:6
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: \views\layouts\default.ctp:21
+msgid "Home"
+msgstr ""
+
+#: \views\layouts\default.ctp:22
+msgid "LogOut"
+msgstr ""
+
+#: \views\layouts\default.ctp:37
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: \views\links\add.ctp:4
+msgid "Add Link"
+msgstr ""
+
+#: \views\links\add.ctp:16
+#: \views\links\edit.ctp:18
+#: \views\links\view.ctp:26
+msgid "List Links"
+msgstr ""
+
+#: \views\links\edit.ctp:4
+#: \views\links\view.ctp:24
+msgid "Edit Link"
+msgstr ""
+
+#: \views\links\index.ctp:2
+msgid "Bienvenido al admin"
+msgstr "asda"
+
+#: \views\links\index.ctp:3
+msgid "System Name"
+msgstr "Malka Hostel Admin"
+
+#: \views\links\view.ctp:2
+msgid "Link"
+msgstr ""
+
+#: \views\links\view.ctp:14
+msgid "Value"
+msgstr ""
+
+#: \views\links\view.ctp:25
+msgid "Delete Link"
+msgstr ""
+
+#: \views\links\view.ctp:27
+msgid "New Link"
+msgstr ""
+
+#: \views\precios\add.ctp:4
+msgid "Add Precio"
+msgstr ""
+
+#: \views\precios\add.ctp:19
+#: \views\precios\edit.ctp:21
+#: \views\precios\view.ctp:41
+#: \views\tipoprecios\add.ctp:17
+#: \views\tipoprecios\edit.ctp:19
+#: \views\tipoprecios\index.ctp:48
+#: \views\tipoprecios\view.ctp:28
+msgid "List Precios"
+msgstr ""
+
+#: \views\precios\edit.ctp:4
+#: \views\precios\view.ctp:39
+msgid "Edit Precio"
+msgstr ""
+
+#: \views\precios\index.ctp:2
+msgid "Precios"
+msgstr ""
+
+#: \views\precios\index.ctp:55
+#: \views\precios\view.ctp:42
+#: \views\tipoprecios\add.ctp:18
+#: \views\tipoprecios\edit.ctp:20
+#: \views\tipoprecios\index.ctp:49
+#: \views\tipoprecios\view.ctp:29;72
+msgid "New Precio"
+msgstr ""
+
+#: \views\precios\view.ctp:2
+msgid "Precio"
+msgstr ""
+
+#: \views\precios\view.ctp:14
+#: \views\tipoprecios\view.ctp:39
+msgid "Subtitulo"
+msgstr ""
+
+#: \views\precios\view.ctp:19
+#: \views\tipoprecios\view.ctp:40
+msgid "Valor"
+msgstr ""
+
+#: \views\precios\view.ctp:24
+#: \views\tipoprecios\view.ctp:2
+msgid "Tipoprecio"
+msgstr ""
+
+#: \views\precios\view.ctp:29
+#: \views\tipoprecios\view.ctp:42
+msgid "Con Desayuno?"
+msgstr ""
+
+#: \views\precios\view.ctp:40
+msgid "Delete Precio"
+msgstr ""
+
+#: \views\tipoprecios\add.ctp:4
+msgid "Add Tipoprecio"
+msgstr ""
+
+#: \views\tipoprecios\add.ctp:16
+#: \views\tipoprecios\edit.ctp:18
+#: \views\tipoprecios\view.ctp:26
+msgid "List Tipoprecios"
+msgstr ""
+
+#: \views\tipoprecios\edit.ctp:4
+#: \views\tipoprecios\view.ctp:24
+msgid "Edit Tipoprecio"
+msgstr ""
+
+#: \views\tipoprecios\index.ctp:2
+msgid "Tipoprecios"
+msgstr ""
+
+#: \views\tipoprecios\index.ctp:47
+#: \views\tipoprecios\view.ctp:27
+msgid "New Tipoprecio"
+msgstr ""
+
+#: \views\tipoprecios\view.ctp:14
+msgid "Descripcion"
+msgstr ""
+
+#: \views\tipoprecios\view.ctp:25
+msgid "Delete Tipoprecio"
+msgstr ""
+
+#: \views\tipoprecios\view.ctp:33
+msgid "Related Precios"
+msgstr ""
+
+#: \views\tipoprecios\view.ctp:41
+msgid "Tipoprecio Id"
+msgstr ""
+
+#: \views\users\add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: \views\users\edit.ctp:4
+#: \views\users\view.ctp:39
+msgid "Edit User"
+msgstr ""
+
+#: \views\users\index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: \views\users\login.ctp:5
+msgid "Loginn"
+msgstr ""
+
+#: \views\users\view.ctp:2
+msgid "User"
+msgstr ""
+
+#: \views\users\view.ctp:40
+msgid "Delete User"
+msgstr ""
+
+#: \webroot\test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
